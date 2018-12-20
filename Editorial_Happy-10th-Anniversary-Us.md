@@ -56,7 +56,7 @@ The reason I’m still writing for Silicon Sasquatch is the connection I share w
 
 As I was learning how to be a better middle manager, I embraced my dirt bag journalist roots as a part-time blogger who viewed issues through a political lens. The creative work, all that running with silly ideas and pushing one another to work harder and break through barriers, sticks out more than any particular story.
 
-Of most importance to me is the creation of our own group chat under the guise of running a blog about games. (Or as we frequently remind ourselves in Slack, we created the world’s least-funded think tank.).Is there a new game coming out? A hot game’s on sale? Did you get a job, lose a job, or want to leave a job? Want to spin the wheel on Slack’s `/giphy` randomizer or drop a tweet from @dasharez0ne? We do all of these things on a weekly basis.
+Of most importance to me is the creation of our own group chat under the guise of running a blog about games. (Or as we frequently remind ourselves in Slack, we created the world’s least-funded think tank.).Is there a new game coming out? A hot game’s on sale? Did you get a job, lose a job, or want to leave a job? Want to spin the wheel on Slack’s `/giphy` randomizer or drop a tweet from [@dasharez0ne](https://twitter.com/dasharez0ne?lang=en)? We do all of these things on a weekly basis.
 
 Because we chat every day, I get in touch with Nick and Aaron when I’m visiting Portland. I’m planning on catching up with Tyler in Australia. And, *eventually*, I’ll make it to Spencer’s god-dang LAN party in Seattle and share Japanese whisky.
 
