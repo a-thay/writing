@@ -1,3 +1,5 @@
+# Aaron
+
 Ten years ago today, Silicon Sasquatch posted its first article. You can still view Nick's inaugural "[This week in music gaming](https://siliconsasquatch.wordpress.com/2008/12/20/this-week-in-music-gaming/)" on our original WordPress domain.
 
 Wow. We've been at this shit for a decade!
@@ -41,6 +43,8 @@ Happy 10th anniversary to us!
 — *Aaron Thayer, Co-Founder and Managing Editor*
 
 <div align="center"><img src="https://j4f7og.dm.files.1drv.com/y4mQae7AIZMrAuME2wYe5oTwPr-dxe9kTfs3DuC-cXcD829M2zQykLB8rPLeVcFOJPaqT2fBVmvBtoGUS9BqXBbZ7wO7B7sgN-ohhBUhyfb-dCTFCyXijK2v2BkCdRBkpQMiPjglKmHsPhEKJpILJoMOMdkx6eIvYNdMA2A1mkVlQd9xWZ6gmZxFlhXbS-GfLE32X1UuLLfIeV3SWAg-iIjNA?width=200&height=15&cropmode=none"></div>
+
+# Doug
 
 It’s amazing how much impact an orange sasquatch can have.
 
