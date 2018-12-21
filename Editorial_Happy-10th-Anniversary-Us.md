@@ -84,9 +84,9 @@ I've said goodbye to plenty of important things behind over the past decade: Hom
 
 So why didn't I ever walk away from Silicon Sasquatch?
 
-Believe me, I tried. I wanted to. Honestly, I put off writing these words you're reading right now until minutes before our publishing deadline. Like Aaron said, the folks who comprise this blog are more than peers—they're a kind of family to me—and like with any family, sometimes it's complicated. And I don't know that I've taken the time to interrogate what Silicon Sasquatch means to me, now, in 2018, ten years after its creation.
+Believe me, I tried. I wanted to. Honestly, I put off writing these words you're reading right now until minutes before our publishing deadline. Like Aaron said, the folks who comprise this blog are more than peers—they're a kind of family to me—and like with any family, sometimes it's complicated. And I don't know that I've taken the time to interrogate what Silicon Sasquatch means to me, now, in 2018, 10 years after its creation.
 
-My memory is pretty spotty in general, but I remember exactly where I was ten years ago, almost to the hour. I was snowed in at a strange little pizza place somewhere in Eugene, Oregon, killing a few hours while I waited for a ride home. I had my laptop (a 2006 MacBook, may it rest in peace) and some time to kill. So I decided to write something for this blog idea Aaron and I'd been kicking around. I wrote it, but more importantly, I published it.
+My memory is pretty spotty in general, but I remember exactly where I was 10 years ago, almost to the hour. I was snowed in at a strange little pizza place somewhere in Eugene, Oregon, killing a few hours while I waited for a ride home. I had my laptop (a 2006 MacBook, may it rest in peace) and some time to kill. So I decided to write something for this blog idea Aaron and I'd been kicking around. I wrote it, but more importantly, I published it.
 
 That was something like 700 articles ago.
 
@@ -96,7 +96,7 @@ But y'all. I still love writing about games.
 
 For better or worse, games are the touchstone of my life. My earliest memories are of playing games with my parents. The margins of my notebooks from elementary school look just like the margins of my work notes: scattered with level designs, game ideas, sketches of characters and items. I can't stop thinking about this stuff. I don't know what it would do to me if I tried.
 
-I feel qualified after ten years of doing this to say that it's always been really tough running a blog, but it's much harder in 2018 than it was before. The irony of social media is that, despite sharing becoming ostensibly easier, it's so much harder to connect directly with another person than it used to be. But I care a lot about the work we do here. I think it's good work. Some of it's even great. And every time anyone's ever told me that they enjoyed an article we wrote, or a podcast we recorded, or sought to debate me over our Game of the Year lists, it's warmed my heart — because that means we connected.
+I feel qualified after 10 years of doing this to say that it's always been really tough running a blog, but it's much harder in 2018 than it was before. The irony of social media is that, despite sharing becoming ostensibly easier, it's so much harder to connect directly with another person than it used to be. But I care a lot about the work we do here. I think it's good work. Some of it's even great. And every time anyone's ever told me that they enjoyed an article we wrote, or a podcast we recorded, or sought to debate me over our Game of the Year lists, it's warmed my heart—because that means we connected.
 
 So thank you for being a part of this. I don't know what the future holds, but I'm still gonna wanna write, and I'm still gonna be playing and thinking about games a whole lot. And I hope you'll stay in touch.
 
