@@ -28,9 +28,9 @@ When I wrote my first piece after hiatus, I easily explained what I missed most:
 
 So here we are, a decade after we began. We quit three times, yet we're still standing.
 
-We all have full-time jobs. Two of us are married. One’s a homeowner. Some of us were laid-off within the last year, while one of us took big steps toward his dream career. We've each experienced tragedy and triumph since December 20, 2008. Through all of life's turns, we've had this site: our reason to talk about games, and, on occasion, to write about them.
+We all have full-time jobs. Two of us are married. One’s a homeowner. One got his master's degree while another finally got his bachelor's. Some of us were laid-off within the last year, while one of us took big steps toward his dream career. We've each experienced tragedy and triumph since December 20, 2008. Through all of life's turns, we've had this site: our reason to talk about games, and, on occasion, to write about them.
 
-Maybe we didn’t give the blog our best effort. I know I haven't. Even so, it continues to bring five opinionated, wholly different people together on a daily basis. Nick and I started this venture as schoolmates. Later, I'd think of us as coworkers. Eventually, we became friends. I knew Doug from the dorms, but I don't think I truly understood and appreciated him until we worked together. And over the last 10 years I've built important friendships with Spencer and Tyler, who I've only seen in person a handful of times.
+Maybe we don't always give the blog our best effort. I know I haven't. Even so, it continues to bring five opinionated, wholly different people together on a daily basis. Nick and I started this venture as schoolmates. Later, I'd think of us as coworkers. Eventually, we became friends. I knew Doug from the dorms, but I don't think I truly understood and appreciated him until we worked together. And over the last 10 years I've built important friendships with Spencer and Tyler, who I've only seen in person a handful of times.
 
 Games were our shared interest and the glue that first bound us together. Initially, we respected each other as creators. Eventually, we respected each other as friends.
 
@@ -56,9 +56,9 @@ Writing and creating articles may not be my day job, but it remains one of my pa
 
 Having an education that crafted my critical eye for quality reporting and news coverage is germane to living in the charred husk that we call the post-2016 media landscape. And, hey, having an eye for layout always helps my PowerPoint decks!
 
-The reason I’m still writing for Silicon Sasquatch is the connection I share with my fellow editors. While it’s hard to remember specific stories or articles from the first few years, I do remember the joy of logging on between classes to edit a [Backlog](https://www.siliconsasquatch.com/blog/2014/06/03/backlog-2) and publish that sucker.
+The reason I’m still writing for Silicon Sasquatch is the connection I share with my fellow editors. While it’s hard to remember specific stories or articles from the first few years, I do remember the joy of logging on between classes to edit a [Backlog](https://www.siliconsasquatch.com/blog/2009/5/29/backlog-may-29-2009) and publish that sucker.
 
-As I was learning how to be a better middle manager, I embraced my dirtbag journalist roots as a part-time blogger who viewed issues through a political lens. The creative work, all that running with silly ideas and pushing one another to work harder and break through barriers, sticks out more than any particular story.
+As I was learning how to be a better middle manager, I embraced my dirt bag journalist roots as a part-time blogger who viewed issues through a political lens. The creative work, all that running with silly ideas and pushing one another to work harder and break through barriers, sticks out more than any particular story.
 
 Of most importance to me is the creation of our own group chat under the guise of running a blog about games. (Or as we frequently remind ourselves in Slack, we created the world’s least-funded think tank.).Is there a new game coming out? A hot game’s on sale? Did you get a job, lose a job, or want to leave a job? Want to spin the wheel on Slack’s `/giphy` randomizer or drop a tweet from [@dasharez0ne](https://twitter.com/dasharez0ne?lang=en)? We do all of these things on a weekly basis.
 
@@ -78,13 +78,13 @@ Long may our web server live, and may it be free from Russian hackers!
 
 The past decade has been kind of a mess. Like, for everyone, y'know? Not just me and mine. But I think that's what happens when the world is transitioning rapidly from one thing to something else altogether. So we hitch ourselves to whatever's sturdy enough, hope the rope holds, and keep living our lives, always mindful of the tethers we rely on.
 
-Aaron and Doug both alluded to wanting to build something akin to *Electronic Gaming Monthly*, a publication of worth and an original voice that helps push the dialogue around games forward and upward to something more inclusive, something more cogent — something better. For me, for a while, that was also the goal.
+Aaron and Doug both alluded to wanting to build something akin to *Electronic Gaming Monthly*, a publication of worth and an original voice that helps push the dialogue around games forward and upward to something more inclusive, something more cogent—something better. For me, for a while, that was also the goal.
 
 I've said goodbye to plenty of important things behind over the past decade: Homes, cities, promising career paths, significant others, creative partners, major life plans, opportunities. And along the way, at a point I really can't nail down, I decided I'd be okay with giving up on writing professionally about games.
 
 So why didn't I ever walk away from Silicon Sasquatch?
 
-Believe me, I tried. I wanted to. Honestly, I put off writing these words you're reading right now until minutes before our publishing deadline. Like Aaron said, the folks who comprise this blog are more than peers — they're a kind of family to me — and like with any family, sometimes it's complicated. And I don't know that I've taken the time to interrogate what Silicon Sasquatch means to me, now, in 2018, ten years after its creation.
+Believe me, I tried. I wanted to. Honestly, I put off writing these words you're reading right now until minutes before our publishing deadline. Like Aaron said, the folks who comprise this blog are more than peers—they're a kind of family to me—and like with any family, sometimes it's complicated. And I don't know that I've taken the time to interrogate what Silicon Sasquatch means to me, now, in 2018, ten years after its creation.
 
 My memory is pretty spotty in general, but I remember exactly where I was ten years ago, almost to the hour. I was snowed in at a strange little pizza place somewhere in Eugene, Oregon, killing a few hours while I waited for a ride home. I had my laptop (a 2006 MacBook, may it rest in peace) and some time to kill. So I decided to write something for this blog idea Aaron and I'd been kicking around. I wrote it, but more importantly, I published it.
 
