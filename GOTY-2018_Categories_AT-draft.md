@@ -1,5 +1,6 @@
 # Best Character: Arthur Morgan, Red Dead Redemption 2
 ## Rockstar Studios | October 26th, 2018 | PlayStation 4, Xbox One
+### Runners-up: Atreus, God of War | Tsuyoshi Nagumo, Yakuza 6: The Song of Life
 
 You're not supposed to like Arthur Morgan. Not at the beginning of _Red Dead Redemption 2_.
 
@@ -21,6 +22,7 @@ Arguably, he failed. Arthur made little difference by the time the credits rolle
 
 # Best Photo Mode: Assassin's Creed Odyssey
 ## Ubisoft Quebec | October 5, 2018 | PlayStation 4, Windows, Xbox One
+### Runners-up: Marvel's Spider-Man | God of War
 
 What makes a good photo mode? Some may prefer the nuance of tweaking f-stop, ISO, and exposure in a game like [_Gran Turismo Sport_](https://www.siliconsasquatch.com/blog/2017/12/27/goty-2017-best-photo-mode), which offered the best damn photography simulation since the original _Dead Rising_. (He's covered wars, y'know.)
 
@@ -38,6 +40,7 @@ But I'd argue again that the point of awarding "best photo mode" is not which ga
 
 # Best Continuation: NEXT update, No Man's Sky
 ## Hello Games | July 24th, 2018 | PlayStation 4, Windows, Xbox One
+### Runners-up: DELTARUNE | Prey: Mooncrash
 
 This summer, nearly two years after receiving asinine death threats and shitty Steam reviews, Hello Games launched NEXT, its 1.5 update to _No Man's Sky_. Finally, the game was shaped into a state more closely resembling that [mind-blowing E3 2014 trailer](https://www.youtube.com/watch?v=nLtmEjqzg7M).
 
