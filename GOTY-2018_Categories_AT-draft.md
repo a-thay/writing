@@ -32,7 +32,7 @@ Others, mirroring modern, mobile-first photography, would rather substitute tech
 
 If you're asking me, well, I'd rather visit an entire world with a trusty, albeit semi-adequate, camera. That's how I'd describe photographing the Mediterranean landscapes and city streets of _Assassin's Creed Odyssey_.
 
-Last year we recognized _Gran Turismo Sport_ and its insane level of photographic detail. However, this year I (successfully) argued that we shouldn't only award games with the _most_ bells and whistles. I believe that a game world that offers the most variety of snapable subjects deserves top recognition, and _Odyssey_ is the closest I've seen to a living, breathing world that encourages exploration through a simulated lens.
+Last year we recognized _Gran Turismo Sport_ and its insane level of photographic detail. However, this year I (successfully) argued that we shouldn't only award games with the _most_ bells and whistles. I believe that a game world that offers the most variety of snappable subjects deserves top recognition, and _Odyssey_ is the closest I've seen to a living, breathing world that encourages exploration through a simulated lens.
 
 Don't get me wrong: _Spider-Man_ makes for brilliant pictures. But _Odyssey_ is variety. Its small villages and bustling Athens offer almost limitless street photography compositions. As gorgeous as Spidey's New York is, that's all you get for the entire game: a big ol' city. _Odyssey_ gives you mountains, volcanos, the sea—all of it waiting to be captured with an admittedly decent proxy camera; the same one seen in last year's _Assassin's Creed Origins_.
 
