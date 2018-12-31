@@ -18,7 +18,7 @@ When Arthur did a good deed, he was called a good man. But his life of crime was
 
 Instead, knowing he was doomed to either die or face prison, Arthur did his best to amend each of his mistakes  across several states and dozens of side quests and dialogue choices.
 
-Arguably, he failed. Arthur made little difference by the time the credits rolled: the civilizing industrialization of the 20th century still nipped at every outlaw's heels. There would be no refuge for Dutch's gang. They would each depart or die. Even so, Arthur was a relatable, troubled soul that guided me through the brutal old west of 1899 was his incessant attempts to be better than his past, even when his life of danger and murder caught up to him at the end. — _Aaron Thayer_
+Arguably, he failed. Arthur made little difference by the time the credits rolled: the civilizing industrialization of the 20th century still nipped at every outlaw's heels. There would be no refuge for Dutch's gang. They would each depart or die. Even so, Arthur was a relatable, troubled soul that guided me through the brutal old west of 1899. His incessant attempts to be better than his past, even when his life of danger and murder caught up to him at the end, will stick with me for a very long time. — _Aaron Thayer_
 
 # Best Photo Mode: Assassin's Creed Odyssey
 ## Ubisoft Quebec | October 5, 2018 | PlayStation 4, Windows, Xbox One
