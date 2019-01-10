@@ -19,4 +19,20 @@ I was simply blown away by Kratos and his son Atreus' believable and heartfelt g
 
 The combat is slow and methodical in the first half of the game due to the Leviathan axe, replacing Kratos' Chaos Blades. The combat matches the slow, introspective plot. It encourages us to play a Kratos who breathes, who pauses, who hesitates. He's no longer the former Spartan who blindly charges into battle to spill blood—in fact he tries to avoid it at all costs, until he's pressed to defend himself and Atreus.
 
-Honestly, the combat is just fine. It's not the main draw. Neither is the gorgeous art direction and extremely crisp fidelity. They're expected components of a major AAA release. What makes _God of War_ one of the best games of the year is its dedication to reinvention. Reinventing and subverting every expectation we have of a famously profitable franchise is an undertaking few would volunteer for. That Sony Santa Monica was courageous enough to reinvent its wheel, _and_ succeed in doing so? It makes _God of War_ perhaps the most remarkable game to ever successfully reinvent itself
+Honestly, the combat is just fine. It's not the main draw. Neither is the gorgeous art direction and extremely crisp fidelity. They're expected components of a major AAA release. What makes _God of War_ one of the best games of the year is its dedication to reinvention. Reinventing and subverting every expectation we have of a famously profitable franchise is an undertaking few would volunteer for. That Sony Santa Monica was courageous enough to reinvent its wheel, _and_ succeed in doing so? It makes _God of War_ perhaps the most remarkable game to ever successfully reinvent itself. —_Aaron Thayer_
+
+
+# \#3 – _Return of the Obra Dinn_
+## 3909 LLC | October 18th, 2018 | macOS, Windows
+
+What a brilliant game.
+
+Its [art direction](https://www.siliconsasquatch.com/blog/2018/12/30/goty-2018-best-art-direction) is noteworthy, yes, but overall success is born from Lucas Pope's meticulous, singular vision. He set out to create a 19th-century insurance adjusting murder mystery, and that's exactly what he released.
+
+If you take a gander at [old screenshots from 2014](https://games.avclub.com/do-you-practice-the-art-of-in-game-photography-1798273342), the game seems barely any different than it did four years later. The concept was crystal clear, even back then. Which proves that all those years of development were used to polish, tighten, and perfect its mechanics.
+
+Beyond the graphics, _Obra Dinn_ is one big logic grid. Whereas other similar games like _The Witness_ barely kept me engaged and made me feel overwhelmed, or even stupid, _Obra Dinn_ does a masterful job of make its carrot-on-the-stick mysteries seem attainable. Which they are. Eventually I _did_ grab each and every carrot, albeit after hours of writing down paper notes and cross-checking my adjustor's in-game journal.
+
+Maybe its formula succeeds because of that uncompromising vision. Or, maybe it's so unique, so _weird_ and unexpected, that I happily bought what it was selling without question. Actually, I think I loved _Obra Dinn_ because it made me feel smart.
+
+The games industry needs fiercely original IP. (It also needs diversity, of all kinds, but original ideas are also lacking.) Thematically, _Obra Dinn_ doesn't ask much of its players, and it doesn't have much of a statement to make—other than, I suppose, a lovely feature that [randomizes the gender of your protagonist each time you start a new game](https://twitter.com/dukope/status/1052971831655727104). Even so, _Return of the Obra Dinn_ is exactly what it needed to be: a celebration of minimalism, an ode to the most miniscule of details...a shining example that game developers can do so much more with so much less.
