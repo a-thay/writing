@@ -36,3 +36,38 @@ Beyond the graphics, _Obra Dinn_ is one big logic grid. Whereas other similar ga
 Maybe its formula succeeds because of that uncompromising vision. Or, maybe it's so unique, so _weird_ and unexpected, that I happily bought what it was selling without question. Actually, I think I loved _Obra Dinn_ because it made me feel smart.
 
 The games industry needs fiercely original IP. (It also needs diversity, of all kinds, but original ideas are also lacking.) Thematically, _Obra Dinn_ doesn't ask much of its players, and it doesn't have much of a statement to make—other than, I suppose, a lovely feature that [randomizes the gender of your protagonist each time you start a new game](https://twitter.com/dukope/status/1052971831655727104). Even so, _Return of the Obra Dinn_ is exactly what it needed to be: a celebration of minimalism, an ode to the most miniscule of details...a shining example that game developers can do so much more with so much less.
+
+# \#1 – _Celeste_ (contribution)
+
+# Aaron
+
+I'll remember _Celeste_ as the game that gave me back a little bit of hope amidst ongoing darkness.
+
+January of 2018 wasn't a great time for me and mine. Things are better now, a bit, but my wife and I were still deep in the middle of various personal crises that began in 2017. And separate from that, I was stressed out by my new job as a contractor (read: few benefits and far less pay) and the daily breaking news stories flowing from the broken sewage pipe we call the White House. (An administration that, expectedly, hasn't improved at all over the past year.)
+
+I had barely touched a controller in weeks. I couldn't be bothered to turn on a console because none of it mattered. In retrospect, I was depressed.
+
+So, there I am a year ago, flailing around inside an emotional maelstrom where videogames were the absolute lowest priority. I recall the sunken feeling of trying to start _Persona 5_ and thinking that it, and all games, were a complete waste of time. My well of joy had run dry.
+
+Considering my state, why would I want to play a hardcore platformer from the _Towerfall_ developer, a game I sucked at and thereby sorta hated? There was no way, I thought, I'd ever finish _Celeste_. It looked pretty, but it seemed like _Celeste_ was destined to be deleted from my Switch forever—just like when I gave up on _Super Meat Boy_ and a half-dozen other difficult platformers over the years.
+
+Then, one weekend morning after _Celeste_ released, I grabbed my Switch, popped in my earbuds, and started a new game. I don't even remember what motivated me to do it.
+
+I beat the first screen, easily. Then I died once or twice on the next few screens. I died again, quite a few more times on another screen, missing a pretty simple wall jump until I understood what the game was asking of me. It wanted me to be patient and persistent. It wanted me to slow down, focus, and respect myself, even when I inevitably failed.
+
+While I was figuring out the mechanics through trial-and-error, I didn't realize that all the deaths, all those failures, didn't piss me off.
+
+> What _Celeste_ taught me is that I could find a way out of the darkness. I could, if I kept pushing myself, climb that physical mountain as well as the metaphorical one.
+
+Historically—and I'm embarrassed to admit this—I have a pretty short fuse when it comes to difficult games. It's why, since _A Link to the Past_, I've gravitated toward RPGs. In my childhood, my active imagination soaked up every sword, spell, and dragon from my favorite SNES games. As an adult, I kept indulging in digital role-play to escape from reality, which was (and is) a constant fucking struggle.
+
+(That _I'm_ saying life is hard, as a privileged white male from an upper-middle-class family, is an absurdity that is absolutely not lost on me. But on a general level, we all agree that being an adult is often a shitty experience, yes?)
+
+Basically, I didn't want games to challenge me. I wanted them to tell a great story while being surmountable. I never looked at games as a mountain to climb, which is a metaphor typically reserved for life, until I played _Celeste_.
+
+I could write about its pixel-perfect platforming or its addictive soundtrack, but those were byproducts of the core experience. What _Celeste_ taught me is that I could find a way out of the darkness. I could, if I kept pushing myself, climb that physical mountain as well as the metaphorical one.
+
+
+Maybe I'm giving the game too much credit. But, coincidentally or not, after I persevered and beat its A-side levels, things in the real world started to improve. My job brought me on as a full-time employee. My wife and I began to navigate our loss and chart a path forward. The President was impeached. (Sigh.)
+
+Or maybe _Celeste_ did teach me something at the exact moment I needed to be taught. After experiencing the depths of tragedy and despair, a pixelized platformer brought me so much joy through its journey up the mountain. I was ready to climb my way up my own mountain too, and I'll always have a soft spot for what it taught me. — _Aaron Thayer_
