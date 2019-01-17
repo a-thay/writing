@@ -12,7 +12,7 @@ However, and despite myself, I managed to put out some decent work in 2018. I di
 
 So I'm trying something new for this year's Honorable Mentions: photo galleries.
 
-The games below are a mixture of GOTY 2018 winners and a few also-rans. The sections are broken up alphabetically, by title, and contain a rotating carousel of not more than 10 hand-selected images.
+The games below are mostly GOTY 2018 winners with one also-ran. The sections are broken up alphabetically, by title, and contain a rotating carousel of not more than 10 hand-selected images.
 
 I hope this format inspires those of you who want to practice IRL photography but feel overwhelmed. Similarly, if you feel limited by your phone's camera but can't afford a separate DSLR or mirrorless camera, if you own _Assassin's Creed Odyssey_ you already have a complete setup and an endless series of gorgeous subjects.
 
@@ -37,11 +37,6 @@ But you know what _is_ really easy to do? Practicing landscape photography in _R
 
 # _Marvel's Spider-Man_
 ## Insomniac Games | September 7th, 2018 | PlayStation 4
-
-[GALLERY]
-
-# _Ni no Kuni II: Revenant Kingdom_
-## Level-5 | March 23, 2018 | PlayStation 4, Windows
 
 [GALLERY]
 
